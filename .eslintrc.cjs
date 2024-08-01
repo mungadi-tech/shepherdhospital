@@ -54,4 +54,4 @@ module.exports = {
     // for consistency (esp. Convex `handler`s)
     "@typescript-eslint/require-await": "off",
   },
-}; 
+};
